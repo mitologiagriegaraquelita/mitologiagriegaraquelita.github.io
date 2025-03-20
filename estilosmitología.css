@@ -1,0 +1,167 @@
+body { 
+      	    background-image: url("imagen120.jpg"); 
+            background-size: cover;
+            background-repeat: no-repeat;
+            background-position: center;
+            background-attachment: fixed; 
+            margin: 0;
+            padding: 0;
+            height: 100vh; 
+	    overflow:hidden;
+            
+}
+
+p {
+	color: white;
+	font-family: 'Caesar Dressing', cursive;
+	font-size: 22px;
+	text-align: justify;
+	line-height: 2;
+	margin:20px;
+
+}
+
+h1{
+	color:black;
+	font-family: 'Caesar Dressing', cursive;
+	font-size: 60px;
+	text-align: center;
+	padding: 40px 10px ;
+	border: 3px solid #0f0f0f;
+	border-radius: 12px;
+	margin: 10px;
+	background-color: #eee;
+	line-height: 1.2;
+	letter-spacing: 5px;
+	background-color:rgba(243, 188, 214, 0.4);
+        box-shadow: 0 5px 15px rgba(0, 0, 0, 0.5);
+	text-transform: uppercase;
+
+}
+
+h2 {
+    color: #ffffff;
+    font-size: 25px;
+    text-align: center;
+    text-transform: uppercase;
+    letter-spacing: 5px;
+    margin-top: 10px;
+    margin-bottom: 10px;
+    padding: 10px 40px;
+    border: 2px solid #C4AFFF;
+    background-color: rgba(0, 0, 0, 0.4);
+    border-radius: 12px;
+    box-shadow: 0 5px 15px rgba(0, 0, 0, 0.5);
+    font-family: 'Caesar Dressing', cursive;
+
+}
+
+div {
+    background-color: rgba(0, 0, 0, 0.5); 
+    padding: 50px;
+    margin:20px auto;
+    border-radius: 8px;
+    width: 100%; 
+    max-width: 1000px;
+    color: #fff;
+    font-size: 18px;
+    text-align: center;
+    position: relative;
+}
+a {
+    color: #C4AFFF;
+    font-weight: bold;
+    text-decoration: none;
+    transition: all 0.3s;
+    padding: 5px 10px;
+    font-family: 'Caesar Dressing', cursive;
+    font-size: 20px;
+
+}
+
+a:hover {
+    color: white;
+    background-color:#C4AFFF;
+    border-radius: 4px;
+    
+}
+
+.caja {
+            position: fixed;  
+	    transform: translateX(-50%);
+            left: 50%;
+            width: 80%;
+            height: 65vh;
+            overflow-y: auto;
+	    margin: 20px; 
+            padding: 20px;
+            background-color: rgba(0, 0, 0, 0.5); 
+            color: #fff;
+            border-radius: 8px;
+	    scrollbar-width: none;
+
+}
+           
+li {
+    	color: white;
+	font-family: 'Caesar Dressing', cursive;
+	font-size: 22px;
+	text-align: center;
+	margin:30px;
+	
+}
+	    
+.imagen-luminosa {
+	width;300px;
+	border-radius:8px;
+	box-shadow: 0 0px 20px 10px #C4AFFF;
+
+   	
+   
+  
+  
+}
+.imagen-luminosa1 {
+	width;300px;
+	border-radius:8px;
+	box-shadow: 0 0px 20px 10px #C4AFFF;
+}
+ .imagen-luminosa2 {
+	width;300px;
+	border-radius:8px;
+	box-shadow: 0 0px 20px 10px #C4AFFF;   	
+
+}
+  	
+    
+.box {
+            
+            background-color: rgba(243, 188, 214, 0.3); 
+ 	    display:inline-block;
+	    border-radius:8px;
+	    width:90%;
+	    padding: 20px;
+	    
+	    
+	           
+
+}
+.box1 {
+         background-color: rgba(0, 0, 0, 0.3);    
+         display:inline-block;
+
+ 	
+}
+.caja1 {
+            
+    background-color: black;  
+    border-radius: 8px;  
+    width: 660px;   
+    height: 220px; 
+    padding: 20px; 
+    box-shadow: 0 0px 20px 10px #C4AFFF; 
+}
+
+
+  
+

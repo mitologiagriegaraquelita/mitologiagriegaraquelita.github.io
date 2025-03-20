@@ -1,0 +1,136 @@
+
+body {
+    background-image: linear-gradient(#ffc8dd, #d8e7eb);
+    background-size: cover;
+    margin: 0;
+    padding: 0;
+    height: 100vh;
+    font-family: 'Caesar Dressing', cursive;
+    overflow: hidden;
+}
+
+p {
+	color: white;
+	font-family: 'Caesar Dressing', cursive;
+	font-size: 22px;
+	text-align: justify;
+	line-height: 2;
+	margin: 10px;
+	padding: 20px 20px ;
+
+}
+
+h1{
+	color:black;
+	font-family: 'Caesar Dressing', cursive;
+	font-size: 50px;
+	font-weight: 100;
+	font-style:normal; 
+	text-align: center;
+	padding: 40px 10px ;
+	border: 3px solid ;
+	border-radius: 12px;
+	margin: 10px;
+	background-color: #eee;
+	line-height: 1.2;
+	letter-spacing: 8px;
+	background-color:rgba(195, 187, 237,0.3);
+        box-shadow: 0 5px 15px rgba(0, 0, 0, 0.5);
+
+}
+
+h2 {
+    color: #ffffff;
+    font-size: 25px;
+    text-align: center;
+    text-transform: uppercase;
+    letter-spacing: 5px;
+    margin-top: 10px;
+    margin-bottom: 10px;
+    padding: 10px 40px;
+    border: 2px solid #F3BCD6;
+    background-color: rgba(0, 0, 0, 0.4);
+    border-radius: 12px;
+    box-shadow: 0 5px 15px rgba(0, 0, 0, 0.5);
+    font-family: 'Caesar Dressing', cursive;
+
+}
+
+div {
+    background-color: rgba(243, 188, 214, 0.5); 
+    padding: 50px;
+    margin:20px auto;
+    border-radius: 8px;
+    width: 100%; 
+    max-width: 1000px;
+    color: #f3bcd6;
+    font-size: 18px;
+    text-align: center;
+    position: relative;
+}
+a {
+    color: #C4AFFF;
+    font-weight: bold;
+    text-decoration: none;
+    transition: all 0.3s;
+    padding: 5px 10px;
+    font-family: 'Caesar Dressing', cursive;
+    font-size: 20px;
+
+}
+
+a:hover {
+    color: white;
+    background-color: ;
+    border-radius: 4px;
+    
+}
+
+.box {
+    position: fixed; 
+    transform: translateX(-50%);
+    left: 50%;
+    width: 80%;
+    height: 65vh;
+    overflow-y: auto; 
+    padding: 20px;
+    background-color: rgba(0, 0, 0, 0.5); 
+    color: #fff;
+    border-radius: 8px;
+    scrollbar-width: none;
+    margin: 20px;
+}
+
+
+ .element {
+  background: black;
+  border-radius: 8px;
+  color: white;
+  padding: 25px;
+  width: 200px;
+  position: fixed;
+  left:100px;
+  
+       
+}
+table {
+    width: 90%;
+    margin: 20px auto;
+    border: 4px solid #F3BCD6;
+    border-collapse: collapse;
+
+
+}
+.box1 {
+            
+            background-color: rgba(195, 187, 237, 0.5); 
+ 	    display:inline-block;
+	    border-radius:8px;
+	    width:90%;
+	    padding: 20px;
+}
+.imagen-luminosa1 {
+	width;300px;
+	border-radius:8px;
+	box-shadow: 0 0px 20px 10px #F3BCD6;
+}
